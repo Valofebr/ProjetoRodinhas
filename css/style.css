@@ -1,0 +1,58 @@
+/* Reset básico para garantir consistência */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* Corpo */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 2;
+    background-color: silver;
+
+}
+/* Topo */
+header {
+    background: #333;
+    color: #fff;
+    padding: 1rem 0;
+    text-align: center;
+    
+}
+/* Configuração do menu*/
+header .titulo {
+    margin-bottom: 0.8rem;
+}
+
+nav ul {
+    list-style: none;
+}
+
+nav ul li {
+    display: inline;
+    margin: 0 1rem;
+}
+
+nav ul li a {
+    color: #e6e6e6;
+    text-decoration: none;
+    text-shadow:#141313 -1px -1px 2px
+    
+}
+/*-------------*/
+ /* Espaçamento do texto*/
+main {
+    padding: 2rem;
+}
+
+
+/*Rodapé*/
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1rem 0;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
