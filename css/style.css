@@ -13,7 +13,7 @@ body {
 }
 /* Topo */
 header {
-    background: #333;
+    background: #ff2020;
     color: #fff;
     padding: 1rem 0;
     text-align: center;
@@ -48,7 +48,7 @@ main {
 
 /*Rodapé*/
 footer {
-    background: #333;
+    background: #ff2020;
     color: #fff;
     text-align: center;
     padding: 1rem 0;
