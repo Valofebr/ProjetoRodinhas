@@ -7,8 +7,13 @@
     font-family: 'Montserrat', sans-serif;
 }
 
+<<<<<<< HEAD:html/Inicial/registro/style.css
 body{
     background-color: rgb(49, 48, 48);
+=======
+body{ 
+    background-image: linear-gradient( 90deg, #fff, #f5b754, rgb(55, 53, 53) );
+>>>>>>> d6c123057619d289bda6208225cb6c99ac0eac50:html/registro/style.css
     backdrop-filter: blur(10px);
     display: flex;
     align-items: center;
@@ -49,8 +54,13 @@ body{
 }
 
 .container button{
+<<<<<<< HEAD:html/Inicial/registro/style.css
     background-color: #f5b754;
     color: black;
+=======
+    background-color: rgb(2, 2, 3);
+    color: #fff;
+>>>>>>> d6c123057619d289bda6208225cb6c99ac0eac50:html/registro/style.css
     font-size: 12px;
     padding: 10px 45px;
     border: 1px solid transparent;
@@ -149,10 +159,16 @@ body{
 }
 
 .toggle{
+<<<<<<< HEAD:html/Inicial/registro/style.css
     background-color: #d6a04a;
     height: 100%;
     background: linear-gradient(silver);
     color: black;
+=======
+    height: 100%;
+    background: linear-gradient(#f5b754,#d6a04a);
+    color: #fff;
+>>>>>>> d6c123057619d289bda6208225cb6c99ac0eac50:html/registro/style.css
     position: relative;
     left: -100%;
     height: 100%;
